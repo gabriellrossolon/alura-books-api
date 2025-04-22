@@ -37,6 +37,7 @@ Este projeto tem como objetivo aplicar os conceitos de **EPIs**:
 ---
 
 ## 📷 Preview!
-[screencapture-127-0-0-1-5500-index-html-2025-04-22-10_14_48](https://github.com/user-attachments/assets/7a9ed1da-078c-44d4-8e5a-8254a5e84ce4)
+![screencapture-127-0-0-1-5500-index-html-2025-04-22-10_14_48](https://github.com/user-attachments/assets/54df235a-ed46-4e79-8765-13706d9719fb)
+
 
 
